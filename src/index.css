@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.App{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.list{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.cart{
+text-align: center;
+margin-right: 20px;
+font-size: 60px;
+
+}
+
+.cartButton{
+    border-radius: 50px;
+    margin-left: 15px;
+    padding: 10px;
+
+}
+.header{
+    text-decoration: solid;
+    font-size: 60px;
+}
+
+.orders{
+    font-size: 40px;
+    line-height: 2;
+}
