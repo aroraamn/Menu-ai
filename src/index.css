@@ -6,13 +6,13 @@ body {
 }
 .App{
     text-align: center;
-    margin-top: 50px;
 
 }
 .list{
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 50px;
     margin-bottom: 50px;
+    color: darkolivegreen;
 
 }
 
@@ -20,14 +20,18 @@ body {
 text-align: center;
 margin-right: 20px;
 font-size: 60px;
-
+float: inherit;
+text-shadow: 1px 1px #FFEFD6;
+text-decoration-color: cornsilk;
+color: #0E5E6F;
+font-family: cursive;
 }
 
 .cartButton{
+    background-color: burlywood;
     border-radius: 50px;
     margin-left: 15px;
     padding: 10px;
-
 }
 .header{
     text-decoration: solid;
@@ -35,6 +39,9 @@ font-size: 60px;
 }
 
 .orders{
+    float: inherit;
     font-size: 40px;
     line-height: 2;
+    color: darkolivegreen;
+    
 }
